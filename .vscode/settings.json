@@ -1,0 +1,5 @@
+{
+    "intelephense.completion.triggerParameterHints": false,
+    "intelephense.diagnostics.deprecated": false,
+    "intelephense.diagnostics.embeddedLanguages": false
+}
